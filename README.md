@@ -1,6 +1,6 @@
 # Hi, I'm Ram 👋
 
-Cloud and DevOps Engineer with 4+ years of experience.
+Cloud and Platform Engineer with DevOps expertise and 4+ years of experience.
 
 Throughout my experience, I have worked on building, automating, and securing scalable cloud environments, while improving deployment processes and system reliability. I’ve been involved in end-to-end workflows, helping teams deliver applications faster with better stability and security.
 
